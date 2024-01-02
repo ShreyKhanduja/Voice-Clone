@@ -24,3 +24,4 @@ Run every code in the order they are present in the file.
 After the 7th step choose a "preset model" to determine quality and upload the "original_audio.wav" file when asked.
 ## Step 7: 
 The Output wav file will appear after running the Generate Speech code snippet in the end of the file.
+![output](https://github.com/ShreyKhanduja/Voice-Clone/assets/91958095/44523028-2d66-43b1-b472-672ab9354e0e)

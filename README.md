@@ -19,5 +19,5 @@ Upload the original_voice.wav file by clicking the button in below image.
 ![wav](https://github.com/ShreyKhanduja/Voice-Clone/assets/91958095/9c344dae-4621-4ae4-861c-7d15fc392726)
 
 # Step 5: Run every code in the order they are present in the file.
-# Step 6: After the 7th step choose a "preset model" to determine quality and upload the original_voice.wav when asked.
-# Step 7: You will get your result after running the generate speach code.
+# Step 6: After the 7th step choose a "preset model" to determine quality and upload the "original_voice.wav" file when asked.
+# Step 7: Congrats, you will get output wav file after running the generate speach code snippet in the end of the file.

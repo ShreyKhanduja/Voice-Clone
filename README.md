@@ -4,7 +4,7 @@ A English to Hindi voice cloner using TorToiSe
 # Steps to run the model
 
 ## Step 1: 
-Click on the link:
+Click on the link: https://colab.research.google.com/drive/1I83EcegQ555yOi0Sx1ilDn1hDd6qGymN?usp=sharing
 
 ## Step 2:
 Connect to t4 gpu using the button in below image.
